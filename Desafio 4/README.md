@@ -9,4 +9,4 @@
 
 ## Para este desafio fiquei na posição 81. Ultima atualização dia 18/09. 
 
-![alt text](https://github.com/CinthyaOestreich/MBTC2020/edit/master/Desafio%204/02_09.PNG)
+!(../CinthyaOestreich/MBTC2020/edit/master/Desafio%204/02_09.PNG)
