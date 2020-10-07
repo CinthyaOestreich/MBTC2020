@@ -7,6 +7,6 @@
 ### Segue abaixo o caminho para o git do desafio. 
 ### https://github.com/maratonadev-br/desafio-4-2020
 
-## Para este desafio fiquei na posição 82.
+## Para este desafio quaranti a posição 82.
 
 ![img](https://github.com/CinthyaOestreich/MBTC2020/blob/master/Desafio%204/Img%20Desafio%204.png)
