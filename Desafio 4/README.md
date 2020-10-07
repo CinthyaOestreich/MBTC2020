@@ -9,4 +9,4 @@
 
 ## Para este desafio fiquei na posição 82.
 
-![img]()
+![img](https://github.com/CinthyaOestreich/MBTC2020/blob/master/Desafio%204/Img%20Desafio%204.png)
