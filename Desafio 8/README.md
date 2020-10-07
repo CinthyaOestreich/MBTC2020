@@ -13,6 +13,6 @@
 ### Segue abaixo o caminho para o git do desafio. 
 ### https://github.com/maratonadev-br/desafio-8-2020
 
-## Para este desafio fiquei na posição 63.
+## Para este desafio quaranti a posição 63.
 
 ![img](https://github.com/CinthyaOestreich/MBTC2020/blob/master/Desafio%208/Img%20Desafio%208.png)
