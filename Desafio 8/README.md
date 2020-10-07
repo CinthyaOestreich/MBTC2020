@@ -7,6 +7,7 @@
 
 ### Este desafio contou com o desenvolvimento de uma API e o treinamento de alguns comentários no IBM WATSON knowledge studio. 
 ### Não vou conseguir compartilhar a parte do Watson porém vou deixar aqui a minha API que foi o real desafio. 
+### Para este desafio utilizei como base este video da IBM https://www.youtube.com/watch?v=sMTKTTFaWmQ
 
 
 ### Segue abaixo o caminho para o git do desafio. 
