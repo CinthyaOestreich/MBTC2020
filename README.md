@@ -1,5 +1,6 @@
-# MBTC2020
+# Maratona Behind the Code 2020
 Repositorio dedicado a Maratona Behind the Code da IBM/ Repository dedicated to the IBM Behind the Code Marathon
+Neste repositorio será possivel encontrar apenas os desafios com notebook python. / In this repository it will be possible to find only the challenges with python notebook
 
  Maratona Behind the Code é uma iniciativa digital que visa capacitar e aproximar desenvolvedores e entusiastas ao mercado de tecnologia. Através de videoaulas e tutoriais, tenha acesso free e aprenda a usar as tecnologias mais disruptivas do mercado (como Inteligência Artificial, Cloud, Containers e IoT) na nuvem da IBM.
  https://maratona.dev/pt
