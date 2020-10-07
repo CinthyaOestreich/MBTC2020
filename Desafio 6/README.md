@@ -8,4 +8,4 @@
 ### Segue abaixo o caminho para o git do desafio. 
 ### https://github.com/maratonadev-br/desafio-6-2020
 
-## Para este desafio fiquei na posição 257. 
+## Para este desafio quaranti a posição 257. 
