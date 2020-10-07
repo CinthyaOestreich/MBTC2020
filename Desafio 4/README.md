@@ -7,6 +7,6 @@
 ### Segue abaixo o caminho para o git do desafio. 
 ### https://github.com/maratonadev-br/desafio-4-2020
 
-## Para este desafio fiquei na posição 81. Ultima atualização dia 18/09. 
+## Para este desafio fiquei na posição 82.
 
-![img](https://github.com/CinthyaOestreich/MBTC2020/blob/master/Desafio%204/Foto.png)
+![img]()
