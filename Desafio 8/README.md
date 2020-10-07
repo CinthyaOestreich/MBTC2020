@@ -1,12 +1,17 @@
 
 # Desafio 8 - Fiat Chrysler Automobiles
 
-### Este desafio tem como objetivo criar um modelo no Modeler Flow (SPSS) capaz de encontrar o melhor candidato de acordo com as variáveis do dataset fornecido.
-### Neste caso além de realizar o trabalho no SPSS, ferramenta de criação de modelos via fluxo, poderiamos criar os modelos via notebook. Neste caso optei por utilizar o notebook em pyhton. 
+### Como objetivo principal, espera-se ter um dispositivo inteligente que é capaz de compreender sugestões de um motorista que dirige um veículo Fiat ou Jeep. Esse dispositivo será capaz de analisar o contexto do que está sendo dito em linguagem natural por um motorista, realizar análise de sentimento, e ao final ser capaz de sugerir outros veículos para test-drive ou review, além de sintetizar informações valiosas para equipes de engenharia responsáveis por melhorias nos automóveis.
+
+![img](https://github.com/CinthyaOestreich/MBTC2020/blob/master/Desafio%208/Img%20Desafio%208.png)
+
+### Este desafio contou com o desenvolvimento de uma API e o treinamento de alguns comentários no IBM WATSON knowledge studio. 
+### Não vou conseguir compartilhar a parte do Watson porém vou deixar aqui a minha API que foi o real desafio. 
+
 
 ### Segue abaixo o caminho para o git do desafio. 
 ### https://github.com/maratonadev-br/desafio-8-2020
 
 ## Para este desafio fiquei na posição 63.
 
-![img](https://github.com/CinthyaOestreich/MBTC2020/blob/master/Desafio%204/Img%20Desafio%204.png)
+![img](https://github.com/CinthyaOestreich/MBTC2020/blob/master/Desafio%208/Img%20Desafio%208.png)
